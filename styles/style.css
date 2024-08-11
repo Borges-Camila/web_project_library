@@ -313,7 +313,7 @@
 }
 
 .step {
-  max-width: 220px;
+  max-width: 220px 100px;
 }
 
 .step__title {
@@ -387,6 +387,7 @@
   column-gap: 10px;
   flex-direction: row-reverse;
   justify-content: flex-end;
+  align-items: stretch;
 }
 
 .footer__social-icon {
