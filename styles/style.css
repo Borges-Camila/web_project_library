@@ -306,11 +306,14 @@
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
-  /* Adicione estilos */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .step {
-  /* Adicione estilos */
+  max-width: 220px;
+  margin: 40px 40px;
 }
 
 .step__title {
