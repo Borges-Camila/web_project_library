@@ -313,7 +313,8 @@
 }
 
 .step {
-  width: 220px 100px;
+  width: 220px;
+  height: 100px;
 }
 
 .step__title {
