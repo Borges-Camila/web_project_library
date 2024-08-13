@@ -389,6 +389,7 @@
   flex-direction: row-reverse;
   justify-content: flex-end;
   align-items: center;
+}
 
 .footer__social-icon {
   width: 16px;
@@ -396,5 +397,5 @@
 }
 
 .footer__copyright {
-  margin-top: 100px;
+  margin: 100px 0 0;
 }
