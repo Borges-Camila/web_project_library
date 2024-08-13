@@ -304,7 +304,7 @@
 
 .membership__steps {
   list-style-type: none;
-  margin: 50px 260px 0 260px;
+  margin: 70px auto 0;
   max-width: 1000px;
   padding: 40px 40px 50px;
   column-gap: 40px;
