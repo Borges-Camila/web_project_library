@@ -314,6 +314,7 @@
 
 .step {
   max-width: 220px;
+  flex-wrap: wrap;
 }
 
 .step__title {
