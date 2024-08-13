@@ -304,9 +304,9 @@
 
 .membership__steps {
   list-style-type: none;
-  padding: 40px;
-  margin: 100px 240px;
+  margin: 100px 240px 0 240px;
   max-width: 1000px;
+  padding: 40px 40px 50px;
   column-gap: 40px;
   display: flex;
   justify-content: center;
@@ -318,7 +318,7 @@
 }
 
 .step__title {
-  margin: 0 0 10px;
+  margin: 0;
   font-size: 20px;
   line-height: 30px;
   font-weight: 700;
@@ -331,7 +331,7 @@
 }
 
 .step__description {
-  margin: 0;
+  margin: 10px 0 0;
 }
 
 .footer {
