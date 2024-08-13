@@ -304,21 +304,21 @@
 
 .membership__steps {
   list-style-type: none;
-  padding: 0;
-  margin: 100px 0 0;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
+  padding: 40px;
+  margin: 100px 240px;
+  max-width: 1000px;
   column-gap: 40px;
+  display: flex;
+  justify-content: center;
 }
 
 .step {
-  max-width: 220px;
-  flex-wrap: nowrap;
+  width: 220px;
+  padding: 0;
 }
 
 .step__title {
-  margin: 0;
+  margin: 0 0 10px;
   font-size: 20px;
   line-height: 30px;
   font-weight: 700;
@@ -331,7 +331,7 @@
 }
 
 .step__description {
-  margin: 10px 0 0;
+  margin: 0;
 }
 
 .footer {
