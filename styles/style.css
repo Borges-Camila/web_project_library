@@ -304,18 +304,15 @@
 
 .membership__steps {
   list-style-type: none;
-  margin: 70px auto 0;
-  max-width: 1000px;
-  padding: 40px 40px 50px;
+  margin: 100px 0 0;
+  padding: 0;
   column-gap: 40px;
   display: flex;
   justify-content: center;
-  border: #000000 2px solid;
 }
 
 .step {
-  width: 220px;
-  padding: 0;
+  flex-basis: 220px;
 }
 
 .step__title {
