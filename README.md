@@ -19,6 +19,7 @@ Trata-se do segundo projeto do bootcamp de desenvolvimento web da TripleTen, com
 #### Resultado final
 
 <div align="center">
+<p><a href="https://borges-camila.github.io/web_project_library/">Abrir aqui</a></p>
 <img width="427" src="./Github/page1.png">
   <img width="427" src="./Github/page2.png">
   <img width="427" src="./Github/page3.png">
